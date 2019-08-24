@@ -1,5 +1,5 @@
 {
-  "name": "Simple-Random-Number-Generator",
+  "name": "simple-random-number-generator",
   "version": "1.0.4",
   "description": "random number generator",
   "main": "index.js",
