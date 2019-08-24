@@ -1,6 +1,6 @@
 {
   "name": "simple-number-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "number generator",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,11 @@
   },
   "keywords": [
     "number",
-    "number",
+    "random",
+    "random number",
+    "random generator",
+    "react number generator",
+    "random number generator",
     "generator"
   ],
   "author": "handi priyono",
