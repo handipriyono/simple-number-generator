@@ -12,5 +12,6 @@
     "generator"
   ],
   "author": "handi priyono",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "handipriyono/simple-number-generator"
 }
