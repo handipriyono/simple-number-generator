@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/simple-number-generator)
+
 # Simple Random Number Generator
 
 # install
