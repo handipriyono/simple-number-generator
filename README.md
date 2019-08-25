@@ -1,4 +1,8 @@
 [![npm](https://img.shields.io/npm/v/simple-random-number-generator)](https://www.npmjs.com/package/simple-random-number-generator)
+[![build with travis CI](https://img.shields.io/travis/handipriyono/simple-number-generator/master)](https://travis-ci.org/handipriyono/simple-number-generator)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+
+---
 
 # Simple Random Number Generator
 
