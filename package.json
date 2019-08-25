@@ -4,8 +4,9 @@
   "description": "random number generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version"
+    "test": "mocha",
+    "release": "standard-version",
+    "prettier": "prettier --check index.js"
   },
   "keywords": [
     "number",
@@ -20,6 +21,10 @@
   "license": "ISC",
   "repository": "handipriyono/simple-number-generator",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "prettier": "1.18.2",
     "standard-version": "^7.0.0"
-  }
+  },
+  "dependencies": {}
 }
