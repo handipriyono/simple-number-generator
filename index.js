@@ -1,18 +1,4 @@
-function randomNoGenerator(params) {
-  if (!params) {
-    params = {
-      min: 0,
-      max: 1
-    };
-  }
-
-  let { min, max, integer } = params;
-
-  if (!min && !max) {
-    min = 0;
-    max = 1;
-  }
-
+function randomNoGenerator({ min = 0, max = 1, integer }) {
   if (!min && min !== 0) {
     if (typeof max !== "number") {
       max = 1;
