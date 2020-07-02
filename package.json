@@ -1,7 +1,7 @@
 {
   "name": "simple-random-number-generator",
   "version": "1.1.0",
-  "description": "random number generator",
+  "description": "random number generator js",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -12,7 +12,7 @@
     "number",
     "random",
     "random number",
-    "random generator",
+    "random generator javascript",
     "react number generator",
     "random number generator",
     "generator"
