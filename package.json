@@ -24,7 +24,7 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "prettier": "1.18.2",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "dependencies": {}
 }
