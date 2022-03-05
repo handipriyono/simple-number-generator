@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/handipriyono/simple-number-generator/compare/v1.2.0...v1.2.1) (2022-03-05)
+
+
+### Bug Fixes
+
+* update package lock json ([5aadadb](https://github.com/handipriyono/simple-number-generator/commit/5aadadb0c0ae75c61ed371f09b7b872cff08b9f7))
+
 ## [1.2.0](https://github.com/handipriyono/simple-number-generator/compare/v1.1.0...v1.2.0) (2020-07-02)
 
 
