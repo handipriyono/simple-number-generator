@@ -1,16 +1,21 @@
-function randomNoGenerator({ min = 0, max = 1, integer }) {
-  if (!min && min !== 0) {
-    if (typeof max !== "number") {
+function randomNoGenerator({ min, max, integer } = {}) {
+  if (!min && min !== 0) { //no min
+    if (typeof max !== "number") { //no max
       max = 1;
+      min = max - 1;
+    } else {
+      min = max - 1
     }
-    min = max - 1;
   }
 
-  if (!max && max !== 0) {
-    if (typeof min !== "number") {
+  if (!max && max !== 0) { //no max
+    console.log("2");
+    if (typeof min !== "number") { //no min
       min = 0;
+      max = min + 1;
+    } else {
+      max = min + 1
     }
-    max = min + 1;
   }
 
   if (min > max) {
